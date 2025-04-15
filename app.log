@@ -1,0 +1,20 @@
+Apr 15, 2025 5:53:15 PM Main validateInput
+INFO: total number of tickets : 100
+Apr 15, 2025 5:53:29 PM Main validateInput
+INFO: ticket release rate/tickets released per cycle) : 5
+Apr 15, 2025 5:53:35 PM Main validateInput
+INFO: customer retrieval rate/tickets retrieved per cycle) : 10
+Apr 15, 2025 5:53:42 PM Main validateInput
+INFO: maximum ticket capacity : 150
+Apr 15, 2025 5:53:59 PM Main validateInput
+INFO: simulation time : 25000
+Apr 15, 2025 5:54:07 PM Main validateInput
+INFO: number of vendors : 3
+Apr 15, 2025 5:54:09 PM Main validateInput
+INFO: number of customers : 2
+Apr 15, 2025 5:54:13 PM Main validateInput
+INFO: Vendor Cooling time in milliseconds : 1000
+Apr 15, 2025 5:54:15 PM Main validateInput
+INFO: Customer Cooling time in milliseconds : 1000
+Apr 15, 2025 5:54:41 PM Main main
+INFO: Simulation completed
