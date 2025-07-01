@@ -85,6 +85,20 @@ Simulation Completed
 Total available tickets: 5
 Total sold tickets: 95
 ```
+---
+
+## 📦 Running via JAR (No Compilation Needed)
+
+Want to try it out instantly without compiling?
+
+1. Visit the [Releases](https://github.com/HassanShamil/Real-Time-Ticketing-System/releases) section.
+2. Download `TicketSystem.jar`.
+3. Open your terminal and navigate to the downloaded file's location.
+4. Run the app with:
+
+```bash
+java -jar TicketSystem.jar
+```
 
 ---
 
